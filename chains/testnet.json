@@ -122,7 +122,7 @@
     "name": "Odyssey",
     "rpcUrl": "https://odyssey.ithaca.xyz",
     "chainId": "911867",
-    "symbol": "ETH",
+    "symbol": "ETH"
     "explorer": "https://explorer.odyssey.ithaca.xyz"
   }
 ]
