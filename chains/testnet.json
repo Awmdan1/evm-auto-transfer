@@ -117,7 +117,7 @@
     "chainId": "9496",
     "symbol": "tWVM",
     "explorer": "https://explorer.wvm.dev"
-  }
+  },
   {
     "name": "Odyssey",
     "rpcUrl": "https://odyssey.ithaca.xyz",
