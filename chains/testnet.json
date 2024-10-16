@@ -118,4 +118,12 @@
     "symbol": "tWVM",
     "explorer": "https://explorer.wvm.dev"
   }
+  {
+    "name": "Odyssey",
+    "rpcUrl": "https://odyssey.ithaca.xyz",
+    "chainId": "911867",
+    "symbol": "ETH",
+    "explorer": "https://explorer.odyssey.ithaca.xyz"
+  }
 ]
+
